@@ -132,4 +132,4 @@ def hemisphere_data(browser):
     return hemisphere_image_urls
 
 if __name__ == "__main__":
-    return hemispheres
+    print(scrape_all())
